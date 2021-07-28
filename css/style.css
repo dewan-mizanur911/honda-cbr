@@ -24,6 +24,11 @@ body{
     background-color: #264653!important;
 }
 /* featured section styles */
+.line{
+    width: 80px;
+    height: 1.5px;
+    background-color: #E76F51;
+}
 .honda-grayscale{
     filter: grayscale(1);
 }
